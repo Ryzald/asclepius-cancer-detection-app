@@ -52,7 +52,8 @@ class ResultActivity : AppCompatActivity() {
         binding.category.text = resultCategory
         binding.precentage.text = resultPrecentage
 
-        if (resultCategory.contains("Non")) {
+        if (category.contains("Non")) {
+
             binding.explanation.text = getString(R.string.nonCancer)
 
         } else {
@@ -62,7 +63,6 @@ class ResultActivity : AppCompatActivity() {
     }
 
     private fun btnAction() {
-        binding.explanation.text = getString(R.string.cancer)
         val intent = Intent(
             Intent.ACTION_VIEW,
             Uri.parse("https://www.kompas.id/search?q=kanker%20kulit")
