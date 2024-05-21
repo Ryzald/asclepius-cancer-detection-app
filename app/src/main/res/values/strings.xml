@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil analisis anda adalah : </string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="analysis_result">Hasil Analisis</string>
+    <string name="upload_text">Belum ada gambar nih, yuk segera unggah gambarmu !</string>
+    <string name="presentase">Presentase \t: </string>
+    <string name="nonCancer"> Non cancer adalah istilah yang digunakan untuk menunjukkan bahwa tidak ditemukan tanda-tanda kanker pada hasil analisis. Ini berarti bahwa sel atau jaringan yang diperiksa tidak menunjukkan karakteristik yang biasanya ditemukan pada kanker, seperti pertumbuhan sel yang tidak terkendali atau mutasi yang merusak.</string>
+    <string name="cancer">Cancer adalah istilah medis yang digunakan untuk menggambarkan penyakit yang terjadi akibat pertumbuhan sel-sel abnormal yang tidak terkendali dalam tubuh. Sel-sel kanker dapat menyerang dan merusak jaringan tubuh yang sehat, serta dapat menyebar ke bagian tubuh yang lain melalui darah dan sistem limfatik.
+</string>
+    <string name="category">kategori \t\t\t\t\t: </string>
+    <string name="penjelasan_t">Penjelasan \t\t:</string>
+    <string name="lihat_berita">Lihat berita</string>
+</resources>
